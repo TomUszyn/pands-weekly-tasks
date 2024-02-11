@@ -6,7 +6,7 @@
 
 accountNumber = input("Please enter a 10-digit account number.: ")  # Inputs 10 digits account number.
 
-# Because we know that length of account id 10 we know how many Xs we need to use to cover account number.
+# Because we know that length of account is 10 we know how many Xs we need to use to cover account number.
 # We use 6 Xs.
 
 
