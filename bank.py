@@ -25,7 +25,7 @@ print(f'{txt}{conv: .2f}')                          # The f-string formatting is
                                                     
                                                     
                                                           
-# Useful links to help understand basics:
+# Useful referal links to help understand basics:
 # https://www.w3schools.com/python/default.asp           
 # https://stackoverflow.com/questions/39935857/how-can-i-print-a-euro-€-symbol-in-python 
 # https://realpython.com/python-f-strings/    
