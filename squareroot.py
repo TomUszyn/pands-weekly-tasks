@@ -12,7 +12,7 @@
 #
 # Newton’s Method for Square Root
 # Initial Guess (Assumption): start with an initial guess (x), which can be any positive value 
-# (often set to 1).
+# (often set to 1 or n).
 # Iterative Update: use the following formula to update our guess: 
 # next_guess = 0.5*(x +n/x)
 # Convergence Check: Calculate the difference between the current guess and 
