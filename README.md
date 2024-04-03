@@ -10,7 +10,7 @@ In this repository, you will find scripts that demonstrate my abilities in Pytho
 
 The repository includes weekly task programs:
 
-- `week1`: Write program  [helloworld.py](helloworld.py). that displays Hello World! when it is run.
+- `week1`: Write program [helloworld.py](https://github.com/TomUszyn/pands-weekly-tasks/blob/main/helloworld.py) that displays Hello World! when it is run.
 - `week2`: Write a program called bank.py 
 The program should:
     *  Prompt the user and read in two money amounts (in cent)
