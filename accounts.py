@@ -1,4 +1,4 @@
-# python_accounts.py
+# accounts.py
 # Program reads in account number and outputs the account number
 # with only the last 4 digits showing (All digits except last 4 replaced with Xs).
 # author: Tomasz Uszynski
