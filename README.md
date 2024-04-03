@@ -26,8 +26,8 @@ You will need to search the web to find how you work out what day it is.
 - `week8`: Write a program called plottask.py that displays:
    * a histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2, 
    * a plot of the function  $h(x) = x^3$ in the range 0 to 10,
-    
-on the one set of axes.
+
+   on the one set of axes.
 
 
 
