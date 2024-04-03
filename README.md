@@ -17,7 +17,7 @@ The program should:
     *  Add the two amounts
     *  Print out the answer in a human readable format with a euro sign and decimal point between the euro and cent of the amount. 
 - `week3`: Write a python program called [accounts.py](https://github.com/TomUszyn/pands-weekly-tasks/blob/main/accounts.py) that reads in a 10 character account number and outputs the account number with only the last 4 digits showing (and the first 6 digits replaced with Xs).
-- `week4`: Write a program, called collatz.py[collatz.py](https://github.com/TomUszyn/pands-weekly-tasks/blob/main/collatz.py), that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one.
+- `week4`: Write a program, called [collatz.py](https://github.com/TomUszyn/pands-weekly-tasks/blob/main/collatz.py), that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one.
 Have the program end if the current value is one.
 - `week5`: Write a program that outputs whether or not today is a weekday. The program is called [weekday.py](https://github.com/TomUszyn/pands-weekly-tasks/blob/main/weekday.py)
 You will need to search the web to find how you work out what day it is.
