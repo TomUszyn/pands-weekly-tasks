@@ -31,6 +31,6 @@ print(result+accountNumber[-4:])                            # Prints out expecte
 # means the end of the sequence.
 
 # Useful referal links to help understand basics:
-# https://realpython.com/lessons/string-slicing/
-# https://www.w3schools.com/python/gloss_python_string_length.asp
-# https://www.w3schools.com/python/default.asp 
+# Information about string slicing on Real Python website: https://realpython.com/lessons/string-slicing/
+# Information about string length on W3Schools website: https://www.w3schools.com/python/gloss_python_string_length.asp
+# General information about coding in Python on W3Schools website: https://www.w3schools.com/python/default.asp 
