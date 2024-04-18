@@ -40,5 +40,6 @@ while positiveInteger != 1:
 print(positiveInteger, end = " ")
 
 # Referal links to help understand basics:
-# https://en.wikipedia.org/wiki/Collatz_conjecture
+# Information about Collatz conjecture: https://en.wikipedia.org/wiki/Collatz_conjecture
+# Information about Loops and Conditionals in PDF file Lecture_11.pdf from Purdue University website:
 # https://www.purdue.edu/hla/sites/varalalab/wp-content/uploads/sites/20/2018/04/Lecture_11.pdf       
