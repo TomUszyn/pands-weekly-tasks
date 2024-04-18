@@ -20,6 +20,7 @@ else:                                                       # Realise  else stat
     print ("It is the weekend, yay!")
 
 # References:
-# https://pynative.com/python-get-the-day-of-week/
-# https://www.programiz.org/1340/python-code-to-get-day-of-week
-# https://www.programiz.com/python-programming/if-elif-else
+# Information how to get the day of the week in Python on the Pynative website:
+# https://pynative.com/python-get-the-day-of-week/.
+# More information aboy get the day of week on Programiz website: https://www.programiz.org/1340/python-code-to-get-day-of-week
+# Information about Python if...else Statement on Programiz website:https://www.programiz.com/python-programming/if-elif-else.
