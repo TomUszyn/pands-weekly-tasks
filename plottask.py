@@ -53,3 +53,23 @@ plt.title(wrapped_title, loc='center', wrap=True)           # Set the title of t
 plt.legend(loc='upper right')                               # Add a legend to the plot with the location set to upper right.
 
 plt.show()                                                  # Display the histogram and the plot of the function h(x)=x^3.
+
+# Refernces:
+# Information about twinx() function on matplotlib website: 
+# https://matplotlib.org/stable/gallery/subplots_axes_and_figures/two_scales.html
+# Information about textwrap library on Python documentation website:
+# https://docs.python.org/3/library/textwrap.html
+# Information about the square root rule on Wikipedia website:
+# https://en.wikipedia.org/wiki/Histogram#Number_of_bins_and_width
+# Information about NumPy library on NumPy website:
+# https://numpy.org/doc/stable/user/absolute_beginners.html
+# Information about matplotlib library on the matplotlib website:
+# https://matplotlib.org/stable/tutorials/index.html
+# Information about random.normal() function on the NumPy website:
+# https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
+# Information about plot() function on matplotlib website:
+# https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+# Information about hist() function on matplotlib website:
+# https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html
+# Information about second x axix on Stackoverflow website:
+# https://stackoverflow.com/questions/22853118/twiny-in-matplotlib-changes-the-y-axis-scale
