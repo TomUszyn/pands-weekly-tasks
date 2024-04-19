@@ -49,6 +49,9 @@ def sqrt(n, tl=0.000001):
 print(f"The square root of {n} is approx. {sqrt(n)}")
 
 # More informations on the websites:
-# https://math.mit.edu/~stevenj/18.335/newton-sqrt.pdf
+# Information about Newton's Method for square root in document on Massachusetts 
+# Institute of Technology Department of Mathematics website: https://math.mit.edu/~stevenj/18.335/newton-sqrt.pdf
+# More about Newton's Method of squere root on The University of Texas at Austin website:
 # https://web.ma.utexas.edu/users/m408n/CurrentWeb/LM4-8-4.php
+# Very important movie to understand squareroot calculation on Dubious Insights YouTube channel: 
 # https://www.youtube.com/watch?v=FpOEx6zFf1o
