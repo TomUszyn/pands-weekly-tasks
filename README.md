@@ -29,7 +29,7 @@ You will need to search the web to find how you work out what day it is.
 
      on the one set of axes.
 
-
+To read more about each file go to the [Documentation Jupyter Notebook](Documentation.ipynb).
 
 Feel free to explore each program to learn more about the programs and scripts I have worked on. I tried to make code easier to understand by making a lot of comments. Each program includes referal links to webpages which help to understand the code.
 

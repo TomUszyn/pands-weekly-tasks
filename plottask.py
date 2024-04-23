@@ -4,17 +4,6 @@
 # 2.Plot of the function  h(x)=x3 in the range 0 to 10.
 # author: Tomasz Uszynski
 
-
-# Because the task requires to display the histogram and the plot of the function h(x)=x^3 on the one set of axes,
-# we need to use the twinx() function to create a second y-axis. This function allows to create a second y-axis
-# that shares the same x-axis. Using the twinx() makes plot easier to read and understand. 
-# and the matplotlib library to display the histogram and the plot of the function h(x)=x^3. We also use 
-# the textwrap library to wrap the title of the plot to fit within the plot. Edgecolor helps to distinguish 
-# the bins in the histogram. Bins number is set to 30. to find out how many bins are needed, we can use the
-# square root rule: the number of bins is the square root of the number of data points.
-# We also add the mean and standard deviation to the plot. We added grid to the plot to make it easier to read.
-
-
 import numpy as np                                          # Library that we will use to generate random numbers.
 import matplotlib.pyplot as plt                             # Import the matplotlib library.
 import textwrap                                             # Import the textwrap library.
@@ -48,28 +37,5 @@ ax_twin.set_xlim(0, 11)                                     # Set the x-axis lim
 longTitle = "Histogram of a normal distribution and plot of the function "r'$h(x) = x^3$'  # Title of the plot.
 wrapped_title = "\n".join(textwrap.wrap(longTitle, 50))     # Wrap the title text to fit within the plot.
 plt.title(wrapped_title, loc='center', wrap=True)           # Set the title of the plot.
-
-
 plt.legend(loc='upper right')                               # Add a legend to the plot with the location set to upper right.
-
 plt.show()                                                  # Display the histogram and the plot of the function h(x)=x^3.
-
-# Refernces:
-# Information about twinx() function on matplotlib website: 
-# https://matplotlib.org/stable/gallery/subplots_axes_and_figures/two_scales.html
-# Information about textwrap library on Python documentation website:
-# https://docs.python.org/3/library/textwrap.html
-# Information about the square root rule on Wikipedia website:
-# https://en.wikipedia.org/wiki/Histogram#Number_of_bins_and_width
-# Information about NumPy library on NumPy website:
-# https://numpy.org/doc/stable/user/absolute_beginners.html
-# Information about matplotlib library on the matplotlib website:
-# https://matplotlib.org/stable/tutorials/index.html
-# Information about random.normal() function on the NumPy website:
-# https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
-# Information about plot() function on matplotlib website:
-# https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
-# Information about hist() function on matplotlib website:
-# https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html
-# Information about second x axix on Stackoverflow website:
-# https://stackoverflow.com/questions/22853118/twiny-in-matplotlib-changes-the-y-axis-scale
